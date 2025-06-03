@@ -131,3 +131,12 @@ Chawatvish Worrapoj
 ## Contributions
 
 Pull requests and issues are welcome!
+
+---
+
+## Credits
+
+[ThaiNationalIDCard.NET by bencomtech](https://github.com/bencomtech/ThaiNationalIDCard.NET?tab=readme-ov-file)  
+[ThaiSmartCard-Delphi by warapetch](https://github.com/warapetch/ThaiSmartCard-Delphi)
+
+---
