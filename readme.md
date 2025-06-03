@@ -112,7 +112,7 @@ val person = service.readThaiPeople() // Call in background thread!
 
 ## Future Work
 
-[] Create example implementation on Android side.
+- [ ] Create example implementation on Android side.
 
 ---
 
